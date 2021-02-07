@@ -1,0 +1,19 @@
+body,html{
+    background-color:#fffefe;
+    margin-bottom: -100px;
+    font-family: 'Roboto Mono', monospace;
+}
+#colab{
+    border-radius: 40px;
+background: #ffffff;
+box-shadow:  9px 9px 29px #cccccc,
+             -9px -9px 29px #ffffff;
+}
+#colab1{
+    border-radius: 40 px;
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #c9c6c6,
+                 -5px -5px 10px #ffffff;
+    font-weight: 600;
+}
+
